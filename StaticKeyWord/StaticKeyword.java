@@ -1,3 +1,4 @@
+package StaticKeyWord;
 class Mobile{
 
     // these variables are known as instantaneous variables.
@@ -13,7 +14,7 @@ class Mobile{
         System.out.println("I am static Block");
     }
 
-    
+
     // constructor
     public Mobile(){
         System.out.println("I am constructor");
