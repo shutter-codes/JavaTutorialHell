@@ -13,7 +13,7 @@ class Mobile{
         name = "Phone";
         System.out.println("I am static Block");
     }
-
+ 
 
     // constructor
     public Mobile(){
